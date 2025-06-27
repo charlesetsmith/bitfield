@@ -1,0 +1,66 @@
+{
+	"bitfield8":
+	{
+		"bits876" : {
+			"length" : 3,
+			"msb" : 0,
+			"options" : {
+				"v1": 0,
+				"v2": 1,
+				"v3": 2,
+				"v4": 3,
+				"v5": 4,
+				"v6": 5,
+				"v7": 6,
+				"v8": 7
+			}
+		},
+		"bits54" : {
+			"length" : 2,
+			"msb" : 3,
+			"options" : {
+				"x1": 0,
+				"x2": 1,
+				"x3": 2,
+				"x4": 3
+			}
+		},
+		"bit3" : {
+			"length" : 1,
+			"msb" : 5,
+			"options" : {
+				"a1": 0,
+				"a2": 1
+			}
+		},
+		"bits21" : {
+			"length" : 2,
+			"msb" : 6,
+			"options" : {
+				"b1": 0,
+				"b2": 1,
+				"b3": 2,
+				"b4": 3
+			}
+		}
+	},
+	"bitfield16" : {
+		"bit1" : {
+			"length" : 1,
+			"msb" : 0,
+			"options" : {
+				"false": 0,
+				"true": 1
+			}
+		},
+		"bit16" : {
+			"length" : 1,
+			"msb" : 15,
+			"options" : {
+				"no": 0,
+				"yes": 1
+			}
+		}
+	}
+}
+
